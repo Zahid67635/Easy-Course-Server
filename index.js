@@ -7,7 +7,7 @@ const courses = require('./data/courses.json');
 
 app.use(cors())
 app.get('/', (req, res) => {
-    res.send('Server running')
+    res.send('Server running for Easy course')
 })
 app.get('/courses', (req, res) => {
     res.send(courses)
@@ -19,5 +19,5 @@ app.get('/courses/:id', (req, res) => {
 })
 
 app.listen(port, () => console.log('port is running'))
-
+//
 module.exports = app;

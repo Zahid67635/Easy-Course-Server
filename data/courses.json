@@ -2,7 +2,7 @@
     {
         "id": "01",
         "name": "Operating System",
-        "img": "../images/operating.jpg",
+        "img": "https://1.bp.blogspot.com/-ji0b2CRNVaA/YDZ3V5AEjyI/AAAAAAAABFE/LT_3uc1x3goZGKlJ6iBVmZHbDtWDTcpuwCLcBGAsYHQ/s826/5_Advantages_and_Disadvantages_of_Operating_System_Limitations_%2526_Benefits_of_Operating_System.jpg",
         "detail": "An Operating System (OS) is an interface between a computer user and computer hardware. An operating system is a software which performs all the basic tasks like file management, memory management, process management, handling input and output, and controlling peripheral devices such as disk drives and printers.An operating system is software that enables applications to interact with a computer's hardware. The software that contains the core components of the operating system is called the kernel."
     },
     {
