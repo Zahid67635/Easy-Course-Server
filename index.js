@@ -19,3 +19,5 @@ app.get('/courses/:id', (req, res) => {
 })
 
 app.listen(port, () => console.log('port is running'))
+
+module.exports = app;
