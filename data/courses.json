@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "name": "Operating System",
+        "img": "../images/operating.jpg",
+        "detail": "An Operating System (OS) is an interface between a computer user and computer hardware. An operating system is a software which performs all the basic tasks like file management, memory management, process management, handling input and output, and controlling peripheral devices such as disk drives and printers.An operating system is software that enables applications to interact with a computer's hardware. The software that contains the core components of the operating system is called the kernel."
+    },
+    {
+        "id": "02",
+        "name": "Artificial Intelligence",
+        "img": "../images/artificial-intelligence-training.png",
+        "detail": "Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision.As the hype around AI has accelerated, vendors have been scrambling to promote how their products and services use AI. Often what they refer to as AI is simply one component of AI, such as machine learning. AI requires a foundation of specialized hardware and software for writing and training machine learning algorithms. No one programming language is synonymous with AI, but a few, including Python, R and Java, are popular."
+    },
+    {
+        "id": "03",
+        "name": "Ethical hacking",
+        "img": "../images/hacking.jpg",
+        "detail": "To begin the journey of computer languages and hacking one must be aware of what the world of ethical hacking offers. There are many courses in the field of hacking available in most famous institutes across the nation, further, there are also hacking classes online for short and long durations.While choosing a path professionally one needs to have some of the basic eligibility for the course. Although we know that most of unauthorized hackers do not need to have a qualification but while we guide you to choose an ethical way here are some of the basic eligibility criteria for hacking courses."
+    },
+    {
+        "id": "04",
+        "name": "Cloud Computing",
+        "img": "../images/cloud,jpg.jpg",
+        "detail": "The scope of cloud computing courses or computer science degrees is large with the rising demand for more experts and employees in the field of computer broadband technology in India as well as abroad.Cloud computing is the on-demand solution for storing and retrieving data globally. Cloud computing is fast emerging as an essential component for IT-based enterprises and as a whole. Organisations, both big and small, have deployed cloud technology in a suitable capacity."
+    },
+    {
+        "id": "05",
+        "name": "Web Programming",
+        "img": "../images/shutterstock_394793860-1024x784.jpg",
+        "detail": "A strong internet presence has become essential for every new and growing business today. The first and foremost way for a business to begin online is through designing a spectacular website that can represent its core ideas and the brand. With this need for crafting cool and amazing websites, various career prospects in web designing have rapidly emerged. If you are someone with a knack for programming skills coupled with an eye for crafting stunning aesthetics, you can pursue a web designing course and gather the technical skills and knowledge required to be a web designer. Before opting for that, you should be aware of what a web designing course syllabus is like."
+    },
+    {
+        "id": "06",
+        "name": "Data Science",
+        "img": "../images/data-science.jpg",
+        "detail": "Data Science is simply defined as an interdisciplinary field of study which uses scientific processes, approaches, methods, systems and algorithms to extract requisite insights and information from structured and unstructured data. The syllabus of Data Science is constituted of three main components: Big Data, Machine Learning and Modelling in Data Science. The major topics in the Data Science syllabus are Statistics, Coding, Business Intelligence, Data Structures, Mathematics, Machine Learning, and Algorithms, amongst others. Read this blog to know all about the syllabus of data sciences, for beginners, course subjects as well as the IIT syllabus for data science courses."
+    }
+]
